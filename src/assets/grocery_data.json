@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Organic Bananas, Bunch",
+        "image": "images/bananas.png",
+        "type": "Fresh Fruits",
+        "available": ["Pickup", "Delivery"],
+        "rating": 4.1,
+        "price": 1.70
+    },
+    {
+        "name": "Diet Coke, 24 Pack",
+        "image": "images/coke.png",
+        "type": "Beverages",
+        "available": ["Pickup", "Delivery"],
+        "rating": 4.4,
+        "price": 11.98
+    },
+    {
+        "name": "2% Reduced Fat Milk, 52 fl oz",
+        "image": "images/milk.png",
+        "type": "Dairy & Eggs",
+        "available": ["Pickup", "Delivery"],
+        "rating": 4.4,
+        "price": 3.98
+    },
+    {
+        "name": "White Round Top Bread Loaf, 20 oz",
+        "image": "images/bread.png",
+        "type": "Bakery & Bread",
+        "available": ["Pickup", "Delivery"],
+        "rating": 2.8,
+        "price": 1.10
+    },
+    {
+        "name": "Watermelon Seedless",
+        "image": "images/watermelon.png",
+        "type": "Fresh Fruits",
+        "available": ["Pickup", "Delivery"],
+        "rating": 1.7,
+        "price": 6.68
+    },
+    {
+        "name": "Hardwood Smoked Bacon, 16 oz Pack",
+        "image": "images/bacon.png",
+        "type": "Meat & Seafood",
+        "available": ["Delivery"],
+        "rating": 4.4,
+        "price": 7.98
+    },
+    {
+        "name": "Ginger Ale Soda, 12 pack",
+        "image": "images/ginger_ale.png",
+        "type": "Beverages",
+        "available": ["Pickup"],
+        "rating": 4.7,
+        "price": 17.96
+    },
+    {
+        "name": "Large White Eggs, 12 Count",
+        "image": "images/eggs.png",
+        "type": "Dairy & Eggs",
+        "available": ["Delivery"],
+        "rating": 2.3,
+        "price": 3.00
+    },
+    {
+        "name": "Salted Butter, 1 lb",
+        "image": "images/butter.png",
+        "type": "Dairy & Eggs",
+        "available": ["Pickup", "Delivery"],
+        "rating": 4.9,
+        "price": 5.78
+    },
+    {
+        "name": "Frozen Shrimp, 12 oz",
+        "image": "images/shrimp.png",
+        "type": "Meat & Seafood",
+        "available": ["Delivery"],
+        "rating": 4.2,
+        "price": 7.62
+    },
+    {
+        "name": "Frozen Young Turkey, 10-16lbs",
+        "image": "images/turkey.png",
+        "type": "Meat & Seafood",
+        "available": ["Pickup", "Delivery"],
+        "rating": 3.9,
+        "price": 16.91
+    },
+    {
+        "name": "10 inch Sweet Potato Pie, 36oz",
+        "image": "images/potato_pie.png",
+        "type": "Bakery & Bread",
+        "available": ["Delivery"],
+        "rating": 3.3,
+        "price": 5.94
+    },
+    {
+        "name": "10 inch Apple Pie, 39 oz",
+        "image": "images/apple_pie.png",
+        "type": "Bakery & Bread",
+        "available": ["Pickup", "Delivery"],
+        "rating": 2.7,
+        "price": 5.98
+    },
+    {
+        "name": "Red Globe Seeded Grapes, Bag",
+        "image": "images/grapes.png",
+        "type": "Fresh Fruits",
+        "available": ["Delivery"],
+        "rating": 1.7,
+        "price": 5.48
+    }
+  ]
